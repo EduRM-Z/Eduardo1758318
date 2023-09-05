@@ -1,0 +1,122 @@
+#principal{
+    background-image: linear-gradient(rgb(3, 4, 94),rgb(202, 240, 248));
+}
+
+.titulo1{
+    text-align: center;
+    border: 10px solid rgb(223, 255, 255);
+    padding-left: 22px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+p{
+    border: 10px solid #00b4d8;
+    margin: 50px 100px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #0077B6;
+}
+
+.cajas{
+    text-align: center;
+    border: 10px solid yellow;
+    margin: 50px 100px;
+}
+
+.titulosImg{
+    text-align: center;
+    margin: -30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.ajustar{
+width: 400px;
+}
+.wh{
+    width: 300px;
+    height: 100px;
+}
+.rara{
+    width: 50px;
+    height: 300px;
+}
+.mouse:hover{
+    transform: scale(0.8);
+}
+
+.centrarEnlace{
+    text-align: center;
+    font-size: 50px;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    text-decoration: underline; 
+    font-weight: bold;
+}
+
+.titulosImgP{
+    text-align: center;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.cajas1{
+    text-align: center;
+    margin: 50px 100px;
+}
+
+.ajustar1{
+    border: 10px solid yellow;
+}
+
+.cajas2{
+    text-align: center;
+    margin: 50px 100px;
+}
+
+.wh1{
+    border: 10px solid yellow;
+}
+
+.cajas3{
+    text-align: center;
+    margin: 50px 100px;
+}
+
+.rara1{
+    border: 10px solid yellow;
+}
+
+.cajas4{
+    text-align: center;
+    margin: 50px 100px;
+}
+
+.ajustar4{
+    border: 10px solid yellow;
+}
+
+
+
+#bodyNormal{
+    background-image: linear-gradient(blue, aqua);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#bodyAjustar{
+    background-image: linear-gradient(#0096c7, #ade8f4);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#bodyAncho{
+    background-color: #48cae4;
+}
+#bodyRara{
+    background-image: linear-gradient(#0077b6, #90e0ef);
+}
